@@ -182,8 +182,8 @@ You can enhance this app further by adding:
 
 ## 🧑‍💻 Developer
 
-**Tufail Ashraf**
-💼 Flutter Developer | AI Engineer | Frontend Expert
+**Ikhlaq Ahmed**
+💼 Flutter Developer | AI Engineer 
 🌐 [LinkedIn](https://www.linkedin.com/) • [GitHub](https://github.com/mongolcoder2123) • [Twitter](https://twitter.com/tufailashraf)
 
 ---
@@ -202,6 +202,7 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 If you like this project, give it a ⭐ on GitHub and share your feedback!
 Let’s make learning Flutter fun, interactive, and inspiring! 🚀
+
 
 
 
